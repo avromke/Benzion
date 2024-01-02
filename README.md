@@ -20,3 +20,6 @@ echo Недостаточно памяти для копирования фай�
 :abort ?
 echo Нажата комбинация CTRL+C для остановки копирования.
 ?goto exit ?
+Table departments, columns = [DepartmentId, DepartmentName]
+Table students, columns = [DepartmentId, StudentId, StudentName]
+Create a MySQL query for all students in the Computer Science department
